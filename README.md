@@ -7,6 +7,10 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 2. Show the number of bike trips for all riders and genders for each hour of each day of the week
 3. Show the number of bike trips for each type of user and gender for each day of the week.
 
+Here are the links for visualizations
+[link to dashboard](https://public.tableau.com/app/profile/chandni.pandey/viz/NYC_Citibike_Challenge_16326914529830/Story1?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/chandni.pandey/viz/NYCCitiBikeDashboard_16318251104890/NYCCitiBike)
+
 ## Results
 1. The total number of rides in the month of August was 2,344,224.
 <img width="262" alt="Screen Shot 2021-09-26 at 4 53 40 PM" src="https://user-images.githubusercontent.com/85711507/134825462-3126fcb6-9c91-4065-95d8-9d88f3ea5f41.png">
@@ -35,6 +39,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 ## Summary
 From the above results and the additional data visualization done in the module as well as challenge, it appears that the bike commute is mostly done by the male subscribers. It also appears that the bikesharing services are mostly popular in densly populated areas lke metropolitan areas.
 The two addditional visualizations that can be done in my opinions would be:
-1. 
+1. The data needs to be explored for the checkout times for the unknown category as well. Who are those unknown users. Are they subcribers or customers.
+2. Users trips by gender needs to be analyzed for weekends as well.
 
 
