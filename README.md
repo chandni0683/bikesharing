@@ -36,6 +36,9 @@ Here are the links for visualizations
 7. The below graph shows the User trips by Gender by weekday. If we look at the data most of the trips are made by male subscribers.
 <img width="1012" alt="Screen Shot 2021-09-26 at 5 20 07 PM" src="https://user-images.githubusercontent.com/85711507/134826057-601e7516-aeaf-4d64-a729-3f1b05a9c241.png">
 
+8. The below graph shows the number of trips by gender (weekday per hour). If we look closely at the data it appears that most of the trips were made my male subcribers.
+<img width="997" alt="Screen Shot 2021-09-26 at 5 48 42 PM" src="https://user-images.githubusercontent.com/85711507/134826723-1660642b-d0d3-491c-8184-a7efc2bc2168.png">
+
 ## Summary
 From the above results and the additional data visualization done in the module as well as challenge, it appears that the bike commute is mostly done by the male subscribers. It also appears that the bikesharing services are mostly popular in densly populated areas lke metropolitan areas.
 The two addditional visualizations that can be done in my opinions would be:
