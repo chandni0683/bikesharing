@@ -8,7 +8,9 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 3. Show the number of bike trips for each type of user and gender for each day of the week.
 
 Here are the links for visualizations
+
 [link to dashboard](https://public.tableau.com/app/profile/chandni.pandey/viz/NYC_Citibike_Challenge_16326914529830/Story1?publish=yes)
+
 [link to dashboard](https://public.tableau.com/app/profile/chandni.pandey/viz/NYCCitiBikeDashboard_16318251104890/NYCCitiBike)
 
 ## Results
